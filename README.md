@@ -27,3 +27,5 @@
 #Додано файл "2_4_Класи_" з домашнім завданням до теми "Класи" 
 
 #Додано файл "Additional_hw_3_Functions,_list_comprehensions,_classes" з домашнім завданням до теми "Додаткове завдання №3: Functions. List comprehensions. Classes." 
+
+#Додано файл "hw_3_1_Введення_у_Pandas_та_NumPy_.ipynb" з домашнім завданням до теми "Введення у Pandas та Numpy"
